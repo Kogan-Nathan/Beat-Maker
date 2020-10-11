@@ -164,5 +164,3 @@ drumKit.tempoSlider.addEventListener('input', function(event){
 drumKit.tempoSlider.addEventListener('change', function(event){
     drumKit.updateTempo(event);
 });
-
-// TEMPOUPDATE DOESNT WORK !!!
